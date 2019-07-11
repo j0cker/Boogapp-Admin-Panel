@@ -8,6 +8,7 @@ Future Implementations:
 - Login Attempts
 - Update Angular JS to Angular 8
 - Toolbar bottom right take out voice command add logout functionality (etiqueta nav)
+- Construir pantalla de perfil
 
 Incompatibilities:
 
