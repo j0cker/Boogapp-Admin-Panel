@@ -7,7 +7,7 @@ Future Implementations:
 - Menu 3 Header de la raíz donde te encuentras actualmente (etiqueta ol)
 - Login Attempts
 - Update Angular JS to Angular 8
-- Toolbar bottom right take out voice command add logout functionality
+- Toolbar bottom right take out voice command add logout functionality (etiqueta nav)
 
 Incompatibilities:
 
