@@ -7,3 +7,7 @@ Future Implementations:
 - Menu 3 Header de la raíz donde te encuentras actualmente (etiqueta ol)
 - Login Attempts
 - Update Angular JS to Angular 8
+
+Incompatibilities:
+
+- https://materializecss.com/
