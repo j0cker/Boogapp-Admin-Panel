@@ -9,6 +9,7 @@ Future Implementations:
 - Update Angular JS to Angular 8
 - Toolbar bottom right take out voice command add logout functionality (etiqueta nav)
 - Construir pantalla de perfil
+- Agregar Cahce false a module.js de AngularJs
 
 Incompatibilities:
 
